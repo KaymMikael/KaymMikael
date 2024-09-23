@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **ReactJs, HTML & CSS, Firebase**
 
-- 📫 How to reach me: **kmcaltiz@gmail.com**
+- 📫 How to reach me: **altiz.khaim.c@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
