@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaymmikael&label=Profile%20views&color=0e75b6&style=flat" alt="kaymmikael" /> </p>
 
-- 🌱 I’m currently learning **ReactJs, Firebase**
+- 🌱 I’m currently learning **SQL, NodeJs**
 
-- 💬 Ask me about **ReactJs, HTML & CSS, Firebase**
+- 💬 Ask me about **ReactJs, HTML & CSS**
 
 - 📫 How to reach me: **altiz.khaim.c@gmail.com**
 
