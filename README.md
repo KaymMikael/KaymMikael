@@ -19,5 +19,5 @@
 
 <h3 align="left">Projects</h3>
 <ol>
-  <li><a href="https://task-manager-checkmate.netlify.app/login">CheckMate</a></li>
+  <li><a href="https://task-manager-checkmate.netlify.app/login">CheckMate</a> - Simple Task Manager</li>
 </ul>
