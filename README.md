@@ -19,6 +19,6 @@
 
 <h3 align="left">Projects</h3>
 <ol>
-  <li><a href="https://kaymmikael.github.io/personal-portfolio/">Personal Portfolio</a></li>
+  <li><a href="https://kaymmikael.github.io/personal-portfolio/">Portfolio</a> - Personal Portfolio showcasing projects</li>
   <li><a href="https://task-manager-checkmate.netlify.app/login">CheckMate</a> - Simple Task Manager</li>
 </ul>
